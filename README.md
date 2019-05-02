@@ -1,2 +1,2 @@
 # HandsOn_ML
-Repositpry for notebooks following the book Hands On machine learning with scikit-learn and tensorflow.
+Repository for notebooks following the book Hands-on machine learning with scikit-learn and tensorflow.
